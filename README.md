@@ -51,15 +51,15 @@ This Python-based Inventory Management System is designed for retail environment
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/InventoryManagementSystem.git
-   cd InventoryManagementSystem
+   git clone https://github.com/username/Inventory-Management.git
+   cd Inventory-Management
    ```
 
 2. **Install Python 3.6 or Higher**: Ensure you have Python installed. You can download it from [Python's official site](https://www.python.org/downloads/).
 
 3. **Run the System**:
    ```bash
-   python inventory_management_system.py
+   python Inventory_Management.py
    ```
 
 ---
