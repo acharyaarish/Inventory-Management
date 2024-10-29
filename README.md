@@ -3,6 +3,8 @@
 This Python-based Inventory Management System is designed for retail environments to help manage users, inventory, and orders. Users are assigned different roles with varying permissions: **Manager**, **Stock Clerk**, and **Cashier**. The system provides options for inventory control, order management, and user role-based access control.
 
 ---
+<img width="324" alt="Screenshot 2024-10-29 at 11 00 40 am" src="https://github.com/user-attachments/assets/25cadf6a-4e97-4acd-b160-3e7e19ac767e">
+
 
 ## 📋 Table of Contents
 
